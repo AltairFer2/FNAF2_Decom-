@@ -1,0 +1,9 @@
+# Archivos de backup
+*.backup
+*.bak
+*.tmp
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
